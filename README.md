@@ -128,7 +128,7 @@ The game challenges players to react to a green light as quickly as possible. Pl
 4. Power your board and start the game!
 
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
-
+Scott Pearson - [@scottpearson14](https://github.com/scottpearson14)
 Braden Miller – [@bradenmiller22](https://github.com/bradenmiller22)
